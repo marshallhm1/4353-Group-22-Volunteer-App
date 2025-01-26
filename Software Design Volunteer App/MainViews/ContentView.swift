@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Software Design Volunteer App
-//
-//  Created by rvw on 1/25/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
